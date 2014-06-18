@@ -29,7 +29,9 @@
 
 
 ##Output Description
-#Dataset Name: "UCI HAR Dataset Aggregate.csv"
+#Dataset Name: "UCI_HAR_Dataset_Aggregate.txt"
+#Format: csv, 1 Header row containing column names
+
 #Variables
 Activity							Factor variable with a value for one of 6 activities measured
 Subject								Identifier for the the subject who performed the activity for each window sample. Its range is from 1 to 30. 
