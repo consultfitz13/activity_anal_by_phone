@@ -32,10 +32,6 @@
 #Dataset Name: "UCI_HAR_Dataset_Aggregate.txt"
 #Format: csv, 1 Header row containing column names
 
-Notes: 
-======
-Units: standard gravity units 'g'
-
 #Variables
 
 Name                                | Description
