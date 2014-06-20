@@ -8,6 +8,7 @@ Analysis of phone data to see if you can determine what activity is taking place
 * The selected variables from the original dataset are those for the mean and standard deviation for each measurement
 
 ### Running the program
+* Ensure that the utils package is installed for unzipping the zip file
 * Download the analysis.r program from Github 
 * In R, set your working directory to the directory containing the analysis.R program using the setwd() function
 * In R, source the program

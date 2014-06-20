@@ -11,6 +11,7 @@
 * Appropriately labels the data set with descriptive variable names. 
 * Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
+
 ### What the program does
 * Downloads the unaltered source file into the working directory with the filename: UCI HAR Dataset.zip
 * Unzips the source file using the default extract location. This creates a directory called UCI HAR Dataset with the unzipped files
